@@ -90,9 +90,9 @@
     "KC_B\n\n\n\n3\n5",
     "KC_N\n\n\n\n3\n6",
     "KC_M\n\n\n\n3\n7",
-    "KC_\n\n\n\n3\n8",
-    "KC_\n\n\n\n3\n9",
-    "KC_\n\n\n\n3\n10",
+    "KC_COMM\n\n\n\n3\n8",
+    "KC_DOT\n\n\n\n3\n9",
+    "KC_SLSH\n\n\n\n3\n10",
     {
       "w": 1.75
     },
@@ -124,4 +124,3 @@
     "KC_RCTL\n\n\n\n4\n13"
   ]
 ]
-
