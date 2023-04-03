@@ -3,60 +3,52 @@
     {
       "a": 0
     },
-    "\n\nu\n\n0\n0",
+    "\n\nu\n\n0\n0\n\n\nKC_ESC",
     {
-      "a": 3
+      "a": 1
     },
-    "\n\n\n\n0\n1",
-    "\n\n\n\n0\n2",
-    "\n\n\n\n0\n3",
-    "\n\n\n\n0\n4",
-    "\n\n\n\n0\n5",
-    "\n\n\n\n0\n6",
-    "\n\n\n\n0\n7",
-    "\n\n\n\n0\n8",
-    "\n\n\n\n0\n9",
-    "\n\n\n\n0\n10",
-    "\n\n\n\n0\n11",
-    "\n\n\n\n0\n12",
-    "\n\n\n\n0",
+    "KC_1\n\n\n\n0\n1",
+    "KC_2\n\n\n\n0\n2",
+    "KC_3\n\n\n\n0\n3",
+    "KC_4\n\n\n\n0\n4",
+    "KC_5\n\n\n\n0\n5",
+    "KC_6\n\n\n\n0\n6",
+    "KC_7\n\n\n\n0\n7",
+    "KC_8\n\n\n\n0\n8",
+    "KC_9\n\n\n\n0\n9",
+    "KC_0\n\n\n\n0\n10",
+    "KC_MINS\n\n\n\n0\n11",
+    "KC_EQL\n\n\n\n0\n12",
     {
-      "x": -1,
-      "c": "#6db2e3",
       "a": 0,
       "w": 2
     },
-    "\n\n\n\n0\n13\n0\n0\n\n\nSplit Backspace",
-    {
-      "x": 0.5,
-      "a": 2
-    },
-    "0\n\n1\n\n0\n13",
-    "0\n\n1\n\n1\n13"
+    "\n\n\n\n0\n13\n0\n0\nKC_BSPC\n\nSplit Backspace",
+    "\n\n\n\n0\n13\n0\n1\nKC_BSLS",
+    "\n\n\n\n1\n13\n0\n1\nKC_BSPC"
   ],
   [
     {
-      "c": "#cccccc",
-      "a": 3,
+      "a": 1,
       "w": 1.5
     },
-    "\n\n\n\n1\n0",
-    "\n\n\n\n1\n1",
-    "\n\n\n\n1\n2",
-    "\n\n\n\n1\n3",
-    "\n\n\n\n1\n4",
-    "\n\n\n\n1\n5",
-    "\n\n\n\n1\n6",
-    "\n\n\n\n1\n7",
-    "\n\n\n\n1\n8",
-    "\n\n\n\n1\n9",
-    "\n\n\n\n1\n10",
-    "\n\n\n\n1\n11",
-    "\n\n\n\n1\n12",
+    "KC_TAB\n\n\n\n1\n0",
+    "KC_Q\n\n\n\n1\n1",
+    "KC_W\n\n\n\n1\n2",
+    "KC_E\n\n\n\n1\n3",
+    "KC_R\n\n\n\n1\n4",
+    "KC_T\n\n\n\n1\n5",
+    "KC_Y\n\n\n\n1\n6",
+    "KC_U\n\n\n\n1\n7",
+    "KC_I\n\n\n\n1\n8",
+    "KC_O\n\n\n\n1\n9",
+    "KC_P\n\n\n\n1\n10",
+    "KC_LBRC\n\n\n\n1\n11",
+    "KC_RBRC\n\n\n\n1\n12",
     {
       "w": 1.5
     },
-    "\n\n\n\n2\n13"
+    "KC_BSLS\n\n\n\n2\n13"
   ],
   [
     {
@@ -64,69 +56,71 @@
       "w2": 1.75,
       "l": true
     },
-    "\n\n\n\n2\n0",
+    "KC_CAPS\n\n\n\n2\n0",
     {
       "x": 0.5
     },
-    "\n\n\n\n2\n1",
-    "\n\n\n\n2\n2",
-    "\n\n\n\n2\n3",
-    "\n\n\n\n2\n4",
-    "\n\n\n\n2\n5",
-    "\n\n\n\n2\n6",
-    "\n\n\n\n2\n7",
-    "\n\n\n\n2\n8",
-    "\n\n\n\n2\n9",
-    "\n\n\n\n2\n10",
-    "\n\n\n\n2\n11",
+    "KC_A\n\n\n\n2\n1",
+    "KC_S\n\n\n\n2\n2",
+    "KC_D\n\n\n\n2\n3",
+    "KC_F\n\n\n\n2\n4",
+    "KC_G\n\n\n\n2\n5",
+    "KC_H\n\n\n\n2\n6",
+    "KC_J\n\n\n\n2\n7",
+    "KC_K\n\n\n\n2\n8",
+    "KC_L\n\n\n\n2\n9",
+    "KC_SCLN\n\n\n\n2\n10",
+    "KC_QUOT\n\n\n\n2\n11",
     {
+      "a": 0,
       "w": 2.25
     },
-    "\n\n\n\n2\n12"
+    "\n\nu\n\n2\n12\n\n\nKC_ENT"
   ],
   [
     {
+      "a": 1,
       "w": 2.25
     },
-    "\n\n\n\n3\n0",
-    "\n\n\n\n3\n1",
-    "\n\n\n\n3\n2",
-    "\n\n\n\n3\n3",
-    "\n\n\n\n3\n4",
-    "\n\n\n\n3\n5",
-    "\n\n\n\n3\n6",
-    "\n\n\n\n3\n7",
-    "\n\n\n\n3\n8",
-    "\n\n\n\n3\n9",
-    "\n\n\n\n3\n10",
+    "KC_LSFT\n\n\n\n3\n0",
+    "KC_Z\n\n\n\n3\n1",
+    "KC_X\n\n\n\n3\n2",
+    "KC_C\n\n\n\n3\n3",
+    "KC_V\n\n\n\n3\n4",
+    "KC_B\n\n\n\n3\n5",
+    "KC_N\n\n\n\n3\n6",
+    "KC_M\n\n\n\n3\n7",
+    "KC_\n\n\n\n3\n8",
+    "KC_\n\n\n\n3\n9",
+    "KC_\n\n\n\n3\n10",
     {
       "w": 1.75
     },
-    "\n\n\n\n3\n11",
-    "\n\n\n\n3\n12"
+    "KC_RSFT\n\n\n\n3\n11",
+    "MO(1)\n\n\n\n3\n12"
   ],
   [
     {
       "w": 1.5
     },
-    "\n\n\n\n4\n0",
+    "KC_LCTL\n\n\n\n4\n0",
     {
       "x": 1,
       "w": 1.5
     },
-    "\n\n\n\n4\n2",
+    "KC_LALT\n\n\n\n4\n2",
     {
       "w": 7
     },
-    "\n\n\n\n4\n6",
+    "KC_SPC\n\n\n\n4\n6",
     {
       "w": 1.5
     },
-    "\n\n\n\n4\n10",
+    "KC_RALT\n\n\n\n4\n10",
     {
       "x": 1,
       "w": 1.5
     },
-    "\n\n\n\n4\n13"
+    "KC_RCTL\n\n\n\n4\n13"
   ]
 ]
